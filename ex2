@@ -1,0 +1,8 @@
+print('Digite um numero:')
+numero1 =int( input())
+
+print('Digite outro numero')
+numero2 =int( input())
+
+soma = numero1 + numero2
+print('A soma dos números foi: ',soma)
